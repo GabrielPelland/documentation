@@ -24,7 +24,9 @@ Glisser la composante Novation\_LaunchControlXL\_Utility.tox dans votre projet t
 
 {% columns %}
 {% column %}
-Un seul mappage est actif par défaut. Utilisez les symboles + / - dans Controls pour modifier ce nombre.
+**TEMPLATE:** Permet de sélectionner la configuration sur votre contrôleur midi.
+
+**CONTROLS**: Un seul mappage est actif par défaut. Utilisez les symboles + / - dans Controls pour modifier ce nombre.
 {% endcolumn %}
 
 {% column %}
