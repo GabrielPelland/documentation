@@ -60,5 +60,11 @@ Glisser la composante Novation\_LaunchControlXL\_Utility.tox dans votre projet t
 {% endcolumn %}
 {% endcolumns %}
 
+### &#x20;Informations
 
+Auteur: [GabPelland](https://gabpelland.ca/)
+
+Version 1.2.1
+
+Update on 2025.11.30
 
