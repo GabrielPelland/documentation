@@ -8,19 +8,19 @@ description: >-
 
 {% file src="../.gitbook/assets/Novation_LaunchControlXL_Utility.tox" %}
 
-## Équipements
+### Équipements
 
 Cette composante a été testé avec le _Novation LaunchControl MK2._ Le mappage des contrôles peut être adapté pour les autres versions du contrôleur.
 
 {% embed url="https://novationmusic.com/products/launch-control-xl-mk" %}
 
-## Configuration
+### Instructions
 
-#### 1. Installation
+#### Installation
 
 Glisser la composante Novation\_LaunchControlXL\_Utility.tox dans votre projet touchdesigner. Aucune installation supplémentaire est nécéssaire.
 
-#### 2. Création et mappage
+#### Configuration
 
 {% columns %}
 {% column %}
